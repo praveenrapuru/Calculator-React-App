@@ -1,0 +1,28 @@
+.button {
+ width: 100%;
+ background-color: rgb(217,217,217);
+ font-size: 30px;
+ border: 1px solid rgb(44,45,41);
+			
+}
+.button-right{
+  background-color: rgb(255,159,11);
+  color: rgb(255,255,255);
+  font-size: 30px;
+  border: 1px solid rgb(44,45,41);
+  width: 100%;
+}
+.text{
+  height: 60px;
+  width: 250px;
+  background-color: rgb(134, 134, 147);
+  text-align: right;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  border-radius: 8px;
+  
+  margin-top: 10px;
+}
+.button_aligntbu{
+  margin-top: 10px;
+}
